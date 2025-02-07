@@ -14,7 +14,7 @@ Config.SpawnLocations = {
     },
     {
         coords = vector3(-235.094498, -979.694519, 29.4),
-        bikeModel = "ksd",  -- Set the model of the bike for this location
+        bikeModel = "bf400",  -- Set the model of the bike for this location
         markerID = 23,  -- Marker ID for the spawn point
         color = { r = 255, g = 0, b = 0 },  -- Marker color
         distance = 1,  -- Distance within which the bike can spawn
