@@ -4,7 +4,7 @@ Easily spawn vehicles at predefined locations with customizable options!
 
 ## ✨ Features  
 
-✅ **Spawn bikes at specific locations**  
+✅ **Spawn bikes and cars at specific locations**  
 ✅ **Markers are only visible when players are close (customizable distance)**  
 ✅ **Floating text appears dynamically above markers when enabled**  
 ✅ **Prevents spawning if a vehicle is blocking the spawn spot**  
